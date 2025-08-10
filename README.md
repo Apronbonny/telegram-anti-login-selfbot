@@ -4,4 +4,4 @@ warning #1 : :be sure your account is old at least 2 years. for new accounts tel
 warning #2 :Due to Telegram restrictions, at least 24 hours must pass from logging into the service to the bot before the features can be used.
 
 type "anti loggin enable" or "anti loggin disable" any where to turn on or off the service
-type "anti liggin" any where to see status of sevice
+type "anti loggin" any where to see status of sevice
